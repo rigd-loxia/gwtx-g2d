@@ -25,6 +25,8 @@ Why use Graphics2D on a Canvas
 Not supported
 -------------
 * Various lesser used (getter) functions on the Graphics object
+* Image drawing
+* XOR painting (since not supported by Canvas)
 
 Known issues
 -------------
