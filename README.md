@@ -19,7 +19,7 @@ Supports
 Why use Graphics2D on a Canvas
 -------------
 * Graphics2D API is almost identical to Canvas context
-* Code using Graphics2D API will be able to draw to various outputs, like PDF, SVG, rich-client GUI (AWT, swing,SWT), 
+* Code using Graphics2D API will be able to draw to various outputs, like PDF, SVG, rich-client GUI (AWT, Swing, SWT), 
 	image formats (PNG, JPEg, etc) and now Canvas as well.  
 
 Not supported
